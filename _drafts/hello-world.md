@@ -12,4 +12,4 @@ lastUpdated:
 ### Hello World!
 
 - About me
-- Purpose of this site
+- Purpose of this site 
