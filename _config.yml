@@ -1,0 +1,9 @@
+title: Screem-Sec
+email: hello@screem-sec.com
+description: Cybersecurity reviews and write-ups blog.
+paginate: 5
+baseUrl: https://screem-sec.github.io/Dev-Site/
+
+# Socials
+mastodon: https://infosec.exchange/@screem
+github: https://github.com/Screem-Sec/
